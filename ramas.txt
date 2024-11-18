@@ -5,3 +5,4 @@ cambio hotfix 1
 cambio SecondFeature 1
 cambio SecondFeature 2
 cambio release 1
+cambio release 2
