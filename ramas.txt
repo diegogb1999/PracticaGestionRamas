@@ -1,9 +1,7 @@
 cambio master 1
 cambio develop 1
 cambio develop 2
-<<<<<<< HEAD
 cambio hotfix 1
-=======
 cambio SecondFeature 1
 cambio SecondFeature 2
->>>>>>> SecondFeature
+cambio release 1
